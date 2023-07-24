@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:codespace": "vite dev --host", 
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   },
