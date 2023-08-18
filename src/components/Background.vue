@@ -177,4 +177,11 @@ onMounted(() => {
 :root {
     user-select: none;
 }
+
+.background > * {
+    position: relative;
+
+    padding: 0;
+    margin: 0;
+}
 </style>
